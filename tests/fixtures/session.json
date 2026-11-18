@@ -1,0 +1,11 @@
+{
+  "api_key": "sk_test_4eC39HqLyjWDarjtT1zdp7dc",
+  "checkout": {
+    "id": "cs_test_a1B2c3D4e5F6g7H8",
+    "object": "checkout.session",
+    "payment_status": "paid",
+    "amount_total": 11200,
+    "currency": "usd",
+    "metadata": { "booking_id": "b5f0c1de-0000-4000-8000-000000000001" }
+  }
+}
